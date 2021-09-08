@@ -1,3 +1,8 @@
+"""1. Learning Web Sraping from tutorial using BeautifulSoup
+   2. Import CSV file into SQL Server or do data cleaning using Pandas
+   3. Visualize
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
